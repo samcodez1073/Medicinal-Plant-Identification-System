@@ -4,7 +4,8 @@ This project is a deep learning-powered web application that classifies medicina
 
 Built using TensorFlow, Keras, and Streamlit, it combines a MobileNetV2-based model with a clean user interface for educational and herbal research purposes.
 
-📸 Features
+📸 Features:
+
 ✅ Upload a plant leaf image and get predictions.
 
 🌱 Displays predicted plant name with confidence score.
@@ -13,7 +14,8 @@ Built using TensorFlow, Keras, and Streamlit, it combines a MobileNetV2-based mo
 
 ⚙️ Includes custom training script with fine-tuning using MobileNetV2.
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
 Python
 
 TensorFlow / Keras
@@ -26,7 +28,8 @@ NumPy
 
 MobileNetV2 (Transfer Learning)
 
-📁 Project Structure
+📁 Project Structure:
+
 medicinal-plant-identifier/
 ├── app.py                         # Streamlit app (main interface)
 ├── plant_info.json                # JSON file with plant details
@@ -36,16 +39,19 @@ medicinal-plant-identifier/
 │   ├── model.py                   # Model training and fine-tuning script
 │   └── medicinal_plant_model.h5   # Trained Keras model
 
-🚀 How to Run the App
-1. Install Dependencies
+🚀 How to Run the App:
+
+1. Install Dependencies:
 pip install streamlit tensorflow pillow numpy
-2. Run the Web App
+2. Run the Web App:
 streamlit run app.py
-3. Upload an Image
+3:. Upload an Image
 Upload a plant leaf image (JPG, JPEG, or PNG) and get instant predictions with confidence and medicinal info.
 
 🧠 Model Training
-Dataset
+
+Dataset:
+
 Use a directory structure like:
 data/
 └── Medicinal plant dataset/
@@ -54,6 +60,7 @@ data/
     └── ... (40 plant folders)
     
 Training Steps:
+
 Uses MobileNetV2 as base model.
 
 Image augmentation for robust learning.
@@ -64,7 +71,7 @@ Model saved as Model/medicinal_plant_model.h5.
 
 Run model.py to retrain the model with updated data.
 
-📖 Example Plant Info (JSON format)
+📖 Example Plant Info (JSON format):
 
 {
   "Neem": {
@@ -77,7 +84,8 @@ Run model.py to retrain the model with updated data.
   }
 }
 
-🧪 Future Enhancements
+🧪 Future Enhancements:
+
 📲 Deploy to cloud (Streamlit Cloud, Hugging Face Spaces, etc.)
 
 📱 Mobile-friendly version
@@ -86,10 +94,13 @@ Run model.py to retrain the model with updated data.
 
 📦 Build a REST API
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
+
 MobileNetV2 - TensorFlow Applications
 
 
-🧑‍💻 Author
+🧑‍💻 Author:
+
 Sayyed Ahmed Ali
+
 Feel free to connect and suggest improvements!
