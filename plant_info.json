@@ -1,0 +1,557 @@
+{
+  "Aloevera": {
+    "Benefits": [
+      "Soothes irritated skin and reduces inflammation",
+      "Accelerates healing of minor burns and sunburns",
+      "Promotes healthy digestion and relieves constipation",
+      "Hydrates and rejuvenates the skin"
+    ],
+    "Applications": [
+      "Topical gels for skin care and burns",
+      "Aloe vera juice for internal cleansing",
+      "Used in moisturizers, face masks, and sunscreens",
+      "Ingredients in herbal capsules and creams"
+    ]
+  },
+  "Amla": {
+    "Benefits": [
+      "Extremely rich in Vitamin C, strengthens immune system",
+      "Improves skin tone and delays signs of aging",
+      "Promotes healthy hair growth and reduces dandruff",
+      "Enhances metabolism and supports liver health"
+    ],
+    "Applications": [
+      "Consumed as dried powder in supplements",
+      "Used in Ayurvedic hair oils and shampoos",
+      "Included in herbal tonics and digestive chutneys",
+      "Prepared as pickles and candies for daily consumption"
+    ]
+  },
+  "Amruta_Balli": {
+    "Benefits": [
+      "Detoxifies the liver and enhances its function",
+      "Powerful anti-inflammatory and antioxidant properties",
+      "Supports the immune system",
+      "Used in traditional medicine to manage fever and jaundice"
+    ],
+    "Applications": [
+      "Consumed as fresh juice or herbal extract",
+      "Used in decoctions for liver disorders",
+      "Included in Ayurvedic syrups and tablets",
+      "Applied topically in paste form for skin infections"
+    ]
+  },
+  "Arali": {
+    "Benefits": [
+      "Used as an ornamental plant in traditional ceremonies",
+      "Some species possess antibacterial and antifungal properties",
+      "Symbolic and spiritual significance in some cultures"
+    ],
+    "Applications": [
+      "Garden landscaping and religious offerings",
+      "Used as decorative hedges or fencing",
+      "In folklore medicine, applied as poultices"
+    ]
+  },
+  "Ashoka": {
+    "Benefits": [
+      "Supports female reproductive health and hormonal balance",
+      "Reduces menstrual pain and heavy bleeding",
+      "Acts as a uterine tonic",
+      "Mild anti-inflammatory effects"
+    ],
+    "Applications": [
+      "Key ingredient in Ayurvedic uterine tonics like Ashokarishta",
+      "Used in decoctions and syrups for gynecological wellness",
+      "Traditional pills and powders for hormonal support"
+    ]
+  },
+  "Ashwagandha": {
+    "Benefits": [
+      "Adaptogen that reduces stress and anxiety",
+      "Improves stamina, strength, and vitality",
+      "Boosts memory and concentration",
+      "Supports thyroid and adrenal health"
+    ],
+    "Applications": [
+      "Capsules and powders as daily supplements",
+      "Mixed in warm milk or smoothies for better sleep",
+      "Consumed as herbal teas for relaxation",
+      "Included in stress-relief formulations"
+    ]
+  },
+  "Avacado": {
+    "Benefits": [
+      "Rich source of monounsaturated healthy fats",
+      "Promotes skin elasticity and heart health",
+      "Supports brain function with high folate content",
+      "Aids in reducing cholesterol levels"
+    ],
+    "Applications": [
+      "Consumed raw in salads and sandwiches",
+      "Used as avocado oil in cooking and skin care",
+      "Blended into smoothies and dips",
+      "Used in face masks for moisturizing"
+    ]
+  },
+  "Bamboo": {
+    "Benefits": [
+      "Contains antibacterial and antifungal compounds",
+      "Rich in silica, promoting bone and hair strength",
+      "Improves digestion and acts as a diuretic",
+      "Supports cardiovascular health"
+    ],
+    "Applications": [
+      "Young shoots used in Asian cuisine",
+      "Bamboo leaf extract in traditional medicine",
+      "Silica extracts in skin and joint supplements",
+      "Fiber used in eco-friendly health products"
+    ]
+  },
+  "Basale": {
+    "Benefits": [
+      "Rich in iron and calcium, boosts hemoglobin levels",
+      "Improves bowel movement and aids digestion",
+      "Anti-inflammatory properties help relieve ulcers",
+      "Promotes wound healing"
+    ],
+    "Applications": [
+      "Cooked in curries, stews, and traditional dishes",
+      "Used in green smoothies and vegetable juices",
+      "Applied as poultice for minor skin wounds",
+      "Herbal remedy in rural home medicine"
+    ]
+  },
+  "Betel": {
+    "Benefits": [
+      "Aids digestion and freshens breath",
+      "Possesses antimicrobial and antifungal properties",
+      "Used traditionally to treat cough and cold",
+      "May improve appetite and gut health"
+    ],
+    "Applications": [
+      "Chewed with areca nut and lime in traditional practice",
+      "Used as base in medicinal oils and balms",
+      "Leaves boiled for medicinal steam inhalation",
+      "Extract used in toothpaste and dental products"
+    ]
+  },
+  "Betel_Nut": {
+    "Benefits": [
+      "Stimulates digestion and acts as a mild stimulant",
+      "Traditionally believed to improve oral health",
+      "Promotes saliva production and helps cleanse the mouth"
+    ],
+    "Applications": [
+      "Consumed with betel leaves in traditional chewing practices",
+      "Used in rural medicine for indigestion",
+      "Processed into traditional formulations for oral health"
+    ]
+  },
+  "Brahmi": {
+    "Benefits": [
+      "Enhances memory, learning, and cognitive function",
+      "Reduces stress, anxiety, and mental fatigue",
+      "Improves focus and mental clarity",
+      "Antioxidant properties help in neuroprotection"
+    ],
+    "Applications": [
+      "Taken as syrup, capsule, or powder for brain health",
+      "Used in Brahmi tea or juice",
+      "Used in Ayurvedic brain tonics for students",
+      "Applied as oil for mental relaxation"
+    ]
+  },
+  "Castor": {
+    "Benefits": [
+      "Acts as a natural laxative to relieve constipation",
+      "Stimulates hair growth and strengthens roots",
+      "Soothes skin inflammation and dryness",
+      "Supports wound healing and reduces joint pain"
+    ],
+    "Applications": [
+      "Used as castor oil in hair and skin care products",
+      "Ingredient in over-the-counter laxatives",
+      "Applied topically for arthritis and muscle pain",
+      "Mixed in creams and ointments for skin disorders"
+    ]
+  },
+  "Curry_Leaf": {
+    "Benefits": [
+      "Enhances eyesight due to vitamin A content",
+      "Improves digestion and treats nausea",
+      "Controls blood sugar levels",
+      "Prevents premature greying of hair"
+    ],
+    "Applications": [
+      "Added to dishes for flavor and health benefits",
+      "Prepared as powder or juice for diabetes management",
+      "Used in herbal hair oils and pastes",
+      "Incorporated in Ayurvedic formulations for digestion"
+    ]
+  },
+  "Doddapatre": {
+    "Benefits": [
+      "Eases cold, cough, and sore throat symptoms",
+      "Helps relieve asthma and bronchitis",
+      "Antiseptic and anti-inflammatory for skin care",
+      "Reduces fever and promotes relaxation"
+    ],
+    "Applications": [
+      "Boiled in water for herbal steam or tea",
+      "Used in home remedies for respiratory issues",
+      "Crushed leaves applied to insect bites and wounds",
+      "Incorporated in traditional syrups and tonics"
+    ]
+  },
+  "Ekka": {
+    "Benefits": [
+      "Relieves asthma and respiratory disorders",
+      "Has anti-inflammatory and analgesic effects",
+      "Used to treat joint pain and swelling",
+      "Supports detoxification and improves immunity"
+    ],
+    "Applications": [
+      "Leaves and roots boiled to make herbal decoctions",
+      "Used in poultices for pain relief",
+      "Included in rural medicinal treatments for cold",
+      "Applied in traditional massages for inflammation"
+    ]
+  },
+  "Ganike": {
+    "Benefits": [
+      "Promotes healing of wounds and skin ulcers",
+      "Possesses antimicrobial and anti-inflammatory properties",
+      "Soothes skin irritations and rashes",
+      "Traditionally used for treating fungal infections"
+    ],
+    "Applications": [
+      "Used in pastes and poultices for skin issues",
+      "Applied as herbal compresses",
+      "Boiled and used in cleansing baths",
+      "Combined in Ayurvedic wound healing preparations"
+    ]
+  },
+  "Gauva": {
+    "Benefits": [
+      "Rich in Vitamin C to boost immunity",
+      "Aids digestion and relieves constipation",
+      "Improves skin texture and promotes hydration",
+      "Lowers blood sugar levels and supports heart health"
+    ],
+    "Applications": [
+      "Consumed fresh or as juice",
+      "Used in herbal jams and jellies",
+      "Leaves boiled as tea for diabetes and diarrhea",
+      "Incorporated in natural skincare remedies"
+    ]
+  },
+  "Geranium": {
+    "Benefits": [
+      "Provides calming and uplifting effects",
+      "Balances hormones and improves mood",
+      "Reduces inflammation and tightens skin",
+      "Fights fungal infections"
+    ],
+    "Applications": [
+      "Used in essential oil form for aromatherapy",
+      "Added to bath water or diffusers for relaxation",
+      "Incorporated in skincare products",
+      "Applied as diluted oil for fungal infections"
+    ]
+  },
+  "Henna": {
+    "Benefits": [
+      "Acts as a natural dye for hair and skin",
+      "Cools and soothes the scalp and skin",
+      "Strengthens hair and reduces dandruff",
+      "Has antimicrobial and antifungal properties"
+    ],
+    "Applications": [
+      "Used in body art and temporary tattoos",
+      "Mixed into hair masks and conditioners",
+      "Applied in paste form for cooling effect",
+      "Used in traditional cosmetic applications"
+    ]
+  },
+  "Hibiscus": {
+    "Benefits": [
+      "Lowers blood pressure and cholesterol levels",
+      "Enhances hair shine and stimulates growth",
+      "Promotes liver health and weight loss",
+      "Rich in antioxidants for skin protection"
+    ],
+    "Applications": [
+      "Used in hibiscus teas and syrups",
+      "Extract used in shampoos and conditioners",
+      "Added to skincare formulations",
+      "Made into paste for topical hair and skin treatments"
+    ]
+  },
+  "Honge": {
+    "Benefits": [
+      "Antifungal and antimicrobial properties",
+      "Treats eczema and skin rashes",
+      "Improves oral hygiene",
+      "Used for wound healing"
+    ],
+    "Applications": [
+      "Used in honge oil for skin and scalp disorders",
+      "Leaves crushed and used as antiseptic paste",
+      "Applied in traditional oil massages",
+      "Used in homemade tooth powders"
+    ]
+  },
+  "Insulin": {
+    "Benefits": [
+      "Naturally helps regulate blood glucose levels",
+      "Improves pancreatic function",
+      "Reduces insulin resistance",
+      "Aids weight management"
+    ],
+    "Applications": [
+      "Consumed as decoction for diabetes management",
+      "Available as capsules and tablets",
+      "Used in traditional diabetic diet",
+      "Prepared in teas or powders"
+    ]
+  },
+  "Jasmine": {
+    "Benefits": [
+      "Reduces stress and promotes relaxation",
+      "Improves skin elasticity and hydration",
+      "Has aphrodisiac and antidepressant effects",
+      "Acts as natural antiseptic"
+    ],
+    "Applications": [
+      "Used in essential oils and perfumes",
+      "Added to creams and facial oils",
+      "Used in aromatherapy for calming effect",
+      "Infused in tea for relaxation"
+    ]
+  },
+  "Lemon": {
+    "Benefits": [
+      "Rich in vitamin C which boosts immunity",
+      "Enhances skin radiance and clears blemishes",
+      "Aids digestion and detoxifies the liver",
+      "Alkalizes the body and supports weight loss"
+    ],
+    "Applications": [
+      "Consumed as lemon water or juice",
+      "Used in natural skincare and brightening masks",
+      "Mixed in herbal teas for digestion",
+      "Included in homemade cleaners and tonics"
+    ]
+  },
+  "Lemon_grass": {
+    "Benefits": [
+      "Aids in digestion and relieves bloating",
+      "Has antifungal and antibacterial properties",
+      "Promotes restful sleep and reduces stress",
+      "Lowers cholesterol and boosts immunity"
+    ],
+    "Applications": [
+      "Brewed as tea for calming effect",
+      "Distilled into essential oils for aromatherapy",
+      "Used in herbal formulations and balms",
+      "Added to dishes in Asian and Ayurvedic cuisine"
+    ]
+  },
+  "Mango": {
+    "Benefits": [
+      "Rich in antioxidants and vitamins A, C, and E",
+      "Supports eye health and boosts immunity",
+      "Improves digestion and prevents acidity",
+      "Promotes healthy skin and hair"
+    ],
+    "Applications": [
+      "Consumed as fruit, juice, or smoothie",
+      "Used in pickles and culinary recipes",
+      "Applied as pulp masks for glowing skin",
+      "Included in health drinks and vitamin blends"
+    ]
+  },
+  "Mint": {
+    "Benefits": [
+      "Soothes the digestive tract and reduces indigestion",
+      "Has a cooling effect on the body and breath",
+      "Relieves nausea and headaches",
+      "Anti-inflammatory and antimicrobial"
+    ],
+    "Applications": [
+      "Used in chutneys, teas, and beverages",
+      "Distilled into essential oil for respiratory relief",
+      "Added to face masks and scrubs",
+      "Used in toothpastes and mouth fresheners"
+    ]
+  },
+  "Nagadali": {
+    "Benefits": [
+      "Used traditionally in local healing rituals",
+      "May help with joint pain and inflammation",
+      "Supports detoxification in folk medicine",
+      "Used as a remedy for skin boils and swelling"
+    ],
+    "Applications": [
+      "Used in local herbal decoctions",
+      "Applied topically in paste form",
+      "Ingested as part of tribal medicine",
+      "Combined with oils in massages"
+    ]
+  },
+  "Neem": {
+    "Benefits": [
+      "Highly antibacterial and antiviral",
+      "Cleanses blood and purifies skin",
+      "Prevents acne and skin infections",
+      "Controls dandruff and promotes scalp health"
+    ],
+    "Applications": [
+      "Used in soaps, face packs, and shampoos",
+      "Consumed as neem juice or capsules",
+      "Applied as neem oil for scalp and skin",
+      "Used in pest control and Ayurvedic medicine"
+    ]
+  },
+  "Nithyapushpa": {
+    "Benefits": [
+      "Relieves muscle pain and inflammation",
+      "Used in managing diabetes in traditional medicine",
+      "Promotes skin healing and reduces scarring",
+      "Improves blood circulation"
+    ],
+    "Applications": [
+      "Used in decoctions and medicinal oils",
+      "Applied topically in Ayurvedic treatments",
+      "Consumed in powdered form with honey",
+      "Utilized in traditional massage therapies"
+    ]
+  },
+  "Nooni": {
+    "Benefits": [
+      "Boosts the immune system and energy levels",
+      "Provides powerful antioxidant protection",
+      "Reduces joint pain and arthritis symptoms",
+      "Improves skin texture and detoxifies the body"
+    ],
+    "Applications": [
+      "Consumed as Noni juice or capsules",
+      "Used in skincare supplements",
+      "Included in herbal detox blends",
+      "Applied as fermented topical extract"
+    ]
+  },
+  "Pappaya": {
+    "Benefits": [
+      "Improves digestion through papain enzyme",
+      "Lightens skin and fades pigmentation",
+      "Supports eye and heart health",
+      "Boosts metabolism and immunity"
+    ],
+    "Applications": [
+      "Consumed as ripe fruit or juice",
+      "Used in face masks and skin-lightening creams",
+      "Papaya seeds used for deworming and detox",
+      "Added to hair packs for dandruff control"
+    ]
+  },
+  "Pepper": {
+    "Benefits": [
+      "Improves nutrient absorption and metabolism",
+      "Rich in antioxidants and fights inflammation",
+      "Boosts respiratory health",
+      "Helps in weight loss and digestion"
+    ],
+    "Applications": [
+      "Used as a culinary spice and seasoning",
+      "Included in traditional cough remedies",
+      "Extracted for essential oils and tonics",
+      "Used in herbal teas and decoctions"
+    ]
+  },
+  "Pomegranate": {
+    "Benefits": [
+      "Packed with antioxidants for heart health",
+      "Improves blood circulation and lowers blood pressure",
+      "Enhances skin elasticity and anti-aging",
+      "Boosts memory and brain function"
+    ],
+    "Applications": [
+      "Consumed as fresh fruit or juice",
+      "Used in anti-aging skincare products",
+      "Included in Ayurvedic tonics for blood purification",
+      "Seeds used in culinary and dessert preparations"
+    ]
+  },
+  "Raktachandini": {
+    "Benefits": [
+      "Purifies blood and promotes clear skin",
+      "Has cooling and anti-inflammatory properties",
+      "Supports liver health and detoxification",
+      "Reduces acne and skin blemishes"
+    ],
+    "Applications": [
+      "Used in Ayurvedic skincare formulations",
+      "Consumed as herbal decoction",
+      "Applied as powder or paste for skin care",
+      "Mixed in oils for therapeutic massages"
+    ]
+  },
+  "Rose": {
+    "Benefits": [
+      "Enhances mood and emotional well-being",
+      "Hydrates and softens the skin",
+      "Acts as a mild astringent and anti-inflammatory",
+      "Improves digestion when taken as tea"
+    ],
+    "Applications": [
+      "Used as rose water for skincare",
+      "Added to perfumes and cosmetics",
+      "Brewed as tea for relaxation and digestion",
+      "Used in homemade toners and masks"
+    ]
+  },
+  "Sapota": {
+    "Benefits": [
+      "Provides instant energy due to high sugar content",
+      "Rich in dietary fiber, aiding digestion and relieving constipation",
+      "High in antioxidants and vitamins for skin health",
+      "Strengthens bones with minerals like calcium and phosphorus"
+    ],
+    "Applications": [
+      "Consumed fresh or in smoothies and milkshakes",
+      "Used in fruit salads and desserts",
+      "Processed into jams and juices",
+      "Applied as pulp in natural skin masks"
+    ]
+  },
+  "Tulasi": {
+    "Benefits": [
+      "Boosts immunity and protects against infections",
+      "Relieves cold, cough, and respiratory issues",
+      "Reduces stress and enhances mental clarity",
+      "Possesses antibacterial and anti-inflammatory properties"
+    ],
+    "Applications": [
+      "Consumed as herbal tea or infused water",
+      "Used in religious rituals and ayurvedic medicine",
+      "Inhaled through steam for respiratory relief",
+      "Prepared in syrups and tonics for cough and cold"
+    ]
+  },
+  "Wood_sorel": {
+    "Benefits": [
+      "Cools the body and soothes internal heat",
+      "Relieves urinary tract infections and inflammation",
+      "Supports digestion and reduces stomach acidity",
+      "Helps in managing fever and skin eruptions"
+    ],
+    "Applications": [
+      "Juiced and consumed for cooling and detoxifying effects",
+      "Used in traditional folk remedies for fever",
+      "Crushed and applied topically to skin conditions",
+      "Consumed in herbal mixtures or poultices"
+    ]
+  }
+}
