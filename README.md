@@ -1,4 +1,5 @@
 🌿 Medicinal Plant Identifier
+
 This project is a deep learning-powered web application that classifies medicinal plants based on leaf images and provides information about their medicinal benefits and applications.
 
 Built using TensorFlow, Keras, and Streamlit, it combines a MobileNetV2-based model with a clean user interface for educational and herbal research purposes.
