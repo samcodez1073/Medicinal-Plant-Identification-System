@@ -33,9 +33,12 @@ MobileNetV2 (Transfer Learning)
 medicinal-plant-identifier/
 
 ├── app.py                         # Streamlit app (main interface)
+
 ├── plant_info.json                # JSON file with plant details
 ├── data/
+
 │   └── Medicinal plant dataset/   # Image folders for training
+
 ├── Model/
 │   ├── model.py                   # Model training and fine-tuning script
 │   └── medicinal_plant_model.h5   # Trained Keras model
@@ -43,14 +46,12 @@ medicinal-plant-identifier/
 🚀 How to Run the App:
 
 1. Install Dependencies:
-
-pip install streamlit tensorflow pillow numpy
+   pip install streamlit tensorflow pillow numpy
 
 2. Run the Web App:
+   streamlit run app.py
 
-streamlit run app.py
-
-3:. Upload an Image
+3. Upload an Image:
 
 Upload a plant leaf image (JPG, JPEG, or PNG) and get instant predictions with confidence and medicinal info.
 
@@ -63,11 +64,8 @@ Use a directory structure like:
 data/
 
 └── Medicinal plant dataset/
-
     ├── Aloevera/
-    
     ├── Neem/
-    
     └── ... (40 plant folders)
     
 Training Steps:
@@ -90,17 +88,14 @@ Run model.py to retrain the model with updated data.
   "Neem": {
     
     "Benefits": ["Anti-bacterial", "Boosts immunity"],
-    
     "Applications": ["Used in skin creams", "Dental care products"]
-  
   },
   
   "Tulasi": {
     
     "Benefits": ["Reduces stress", "Fights infections"],
-    
     "Applications": ["Herbal tea", "Ayurvedic medicine"]
-  
+    
   }
 
 }
