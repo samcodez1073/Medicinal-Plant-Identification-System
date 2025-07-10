@@ -33,17 +33,11 @@ MobileNetV2 (Transfer Learning)
 medicinal-plant-identifier/
 
 ├── app.py                         # Streamlit app (main interface)
-
 ├── plant_info.json                # JSON file with plant details
-
 ├── data/
-
 │   └── Medicinal plant dataset/   # Image folders for training
-
 ├── Model/
-
 │   ├── model.py                   # Model training and fine-tuning script
-
 │   └── medicinal_plant_model.h5   # Trained Keras model
 
 🚀 How to Run the App:
