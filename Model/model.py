@@ -5,7 +5,7 @@ from tensorflow.keras.applications import MobileNetV2
 from tensorflow.keras.layers import Dense, GlobalAveragePooling2D, Dropout
 from tensorflow.keras.models import Model
 from tensorflow.keras.callbacks import EarlyStopping
-# Set dataset directory (update this path as needed)
+# Set dataset directory 
 data_dir = r'C:\Users\AHMAD ALI\Desktop\medicinal-plant-identifier\data\Medicinal plant dataset'
 # Image parameters
 IMG_SIZE = (224, 224)
